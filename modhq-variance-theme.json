@@ -13,8 +13,8 @@
     "roomlist-separator-color": "#4d4d4d90",
     "timeline-background-color": "#222833",
     "timeline-text-color": "#ffffff",
-    "secondary-content": "#928374",
-    "tertiary-content": "#928374",
+    "secondary-content": "#ABADB1",
+    "tertiary-content": "#ABADB1",
     "quinary-content": "#504945",
     "timeline-text-secondary-color": "#a89984",
     "timeline-highlights-color": "#00000030",
@@ -34,20 +34,5 @@
       "#d65d0e"
     ],
     "avatar-background-colors": ["#458588", "#b16286", "#689d6a"]
-  },
-  "compound": {
-    "theme-color-1": "#282F3C",
-    "theme-color-2": "#151D27",
-    "theme-color-3": "#101822",
-    "theme-color-4": "#364051",
-    "notification-badge--alert-background": "#d31141",
-    "notification-badge--alert-text": "#ffffff",
-    "notification-badge-background": "#d31141",
-    "hover-color": "#FFCCD4",
-    "background-color": "#222833",
-    "text-color": "#ffffff",
-    "secondary-text-color": "#a89984",
-    "selected-color": "#504945",
-    "button-color": "#3A4456"
   }
 }
