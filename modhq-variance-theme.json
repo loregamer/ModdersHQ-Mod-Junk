@@ -42,6 +42,7 @@
     "theme-color-4": "#364051",
     "notification-badge--alert-background": "#d31141",
     "notification-badge--alert-text": "#ffffff",
+    "notification-badge-background": "#d31141",
     "hover-color": "#FFCCD4",
     "background-color": "#222833",
     "text-color": "#ffffff",
