@@ -65,17 +65,6 @@
         ._161nxvea {
              background-color: #3A4456;
         }
-
-        :root {
-             --mx-uc-1: #89A6CF;
-             --mx-uc-2: #89A6CF;
-             --mx-uc-3: #89A6CF;
-             --mx-uc-4: #89A6CF;
-             --mx-uc-5: #89A6CF;
-             --mx-uc-6: #89A6CF;
-             --mx-uc-7: #89A6CF;
-             --mx-uc-8: #89A6CF;
-         }
     `;
 
   // Create a style element
